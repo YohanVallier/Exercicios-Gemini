@@ -1,0 +1,6 @@
+[INFO] Sistema iniciado às 08:00
+[INFO] Usuário yohan logado com sucesso
+[ERROR] Falha de conexão com o banco de dados às 08:15
+[WARNING] Memória RAM acima de 80%
+[ERROR] Timeout ao consultar API de pagamentos às 08:30
+[INFO] Backup concluído
